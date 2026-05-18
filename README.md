@@ -15,6 +15,7 @@ model.fit(X, y)
 - Ridge Regression(Regularization)
 - Lasso Regression(Regularization)
 - Logistic Regression
+- Support Vector Classifier
 - K-Nearest Neighbors (KNN)
 - Gaussian Naive Bayes
 - Random Forest
@@ -40,6 +41,7 @@ ML-Algo-from-Scratch/
 ├── RidgeRegression/
 ├── LassoRegression/
 ├── LogisticRegression/
+├── SVC/
 ├── KNN/
 ├── NaiveBayes/
 ├── RandomForest/
@@ -64,7 +66,7 @@ This project was built to:
 # Future Improvements
 
 - XGBoost from scratch
-- Support Vector Machine (SVM)
+- Support Vector Regressor
 - PCA from scratch
 - Neural Networks from scratch
 
