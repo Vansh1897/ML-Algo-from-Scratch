@@ -70,8 +70,3 @@ This project was built to:
 
 ---
 
-# Author
-
-Vansh
-
-Building ML algorithms from scratch because blindly importing models felt academically suspicious.
