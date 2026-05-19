@@ -32,26 +32,6 @@ model.fit(X, y)
 
 ---
 
-# Repository Structure
-
-```bash
-ML-Algo-from-Scratch/
-│
-├── LinearRegression/
-├── RidgeRegression/
-├── LassoRegression/
-├── LogisticRegression/
-├── SVC/
-├── KNN/
-├── NaiveBayes/
-├── RandomForest/
-├── AdaBoost/
-├── Gradient Boosting/
-└── README.md
-```
-
----
-
 # Objectives
 
 This project was built to:
